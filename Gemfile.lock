@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    multipart-post (2.0.0)
+    scorm_cloud (0.0.5)
+      multipart-post
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  scorm_cloud
+
+BUNDLED WITH
+   1.12.5
